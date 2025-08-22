@@ -28,7 +28,7 @@
 ### Fact vs Opinion Results
 <img src="https://github.com/user-attachments/assets/ae763db4-b931-4a8e-8aed-f360e0a9a0d2" alt="Fact Opinion Analysis" width="600"/>
 <img width="1919" height="912" alt="Screenshot 2025-08-22 172506" src="https://github.com/user-attachments/assets/3e796e54-4726-4c92-9f48-7e11853c32b7" />
-<img width="1913" height="874" alt="Screenshot 2025-08-22 172513" src="https://github.com/user-attachments/assets/af4bb38b-b184-4195-a9f9-89a805d1b399" />
+
 <img width="1919" height="902" alt="Screenshot 2025-08-22 172520" src="https://github.com/user-attachments/assets/e79c9dcd-1366-47d9-b8bb-9027b2793b0b" />
 
 
@@ -39,6 +39,7 @@
 
 ### AI Analysis
 <img src="https://github.com/user-attachments/assets/3c8bf5f7-ccda-49d0-b810-eb95c96a7849" alt="AI Insights" width="600"/>
+<img width="1915" height="891" alt="Screenshot 2025-08-22 172542" src="https://github.com/user-attachments/assets/d6f40dce-0407-40b7-84b7-15cbe08a494c" />
 
 ---
 
