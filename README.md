@@ -147,19 +147,7 @@ streamlit run app/main.py
 - **🔬 Researchers** - Content analysis studies
 - **👥 General Public** - News fact-checking
 
----
 
-## 📈 Performance
-
-| Component | Time | Accuracy |
-|-----------|------|----------|
-| Content Extraction | 2-5s | 95%+ |
-| Fact Classification | 0.5-1s | 85%+ |
-| Sentiment Analysis | 0.3-0.7s | 90%+ |
-| AI Analysis | 3-8s | 88%+ |
-| **Total** | **8-18s** | **87%** |
-
----
 
 
 
