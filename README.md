@@ -27,6 +27,12 @@
 
 ### Fact vs Opinion Results
 <img src="https://github.com/user-attachments/assets/ae763db4-b931-4a8e-8aed-f360e0a9a0d2" alt="Fact Opinion Analysis" width="600"/>
+<img width="1919" height="912" alt="Screenshot 2025-08-22 172506" src="https://github.com/user-attachments/assets/3e796e54-4726-4c92-9f48-7e11853c32b7" />
+<img width="1913" height="874" alt="Screenshot 2025-08-22 172513" src="https://github.com/user-attachments/assets/af4bb38b-b184-4195-a9f9-89a805d1b399" />
+<img width="1919" height="902" alt="Screenshot 2025-08-22 172520" src="https://github.com/user-attachments/assets/e79c9dcd-1366-47d9-b8bb-9027b2793b0b" />
+
+
+
 
 ### Bias Detection
 <img src="https://github.com/user-attachments/assets/052b8408-ac5c-4725-99b9-fa3e083a8de6" alt="Bias Analysis" width="600"/>
@@ -58,18 +64,17 @@
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/sourceshield.git
-cd sourceshield
+git clone https://github.com/ratnesh90859/SourceShield.git
+
 
 # Create virtual environment
 python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+.\venv\Scripts\Activate  # Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Download NLTK data
-python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords'); nltk.download('wordnet')"
+
 ```
 
 ### Configure Environment
@@ -130,25 +135,9 @@ streamlit run app/main.py
 
 ---
 
-## 🚨 Troubleshooting
 
-### Common Issues
-```bash
-# MongoDB not running
-sudo systemctl start mongod
 
-# Missing dependencies
-pip install lxml_html_clean
 
-# OpenAI API issues - check .env file
-OPENAI_API_KEY=sk-proj-your-actual-key
-```
-
-### Social Media URLs
-- Twitter/X URLs don't work directly
-- **Solution:** Copy text and use "Direct Text" option
-
----
 
 ## 🎯 Use Cases
 
@@ -180,16 +169,6 @@ OPENAI_API_KEY=sk-proj-your-actual-key
 
 ---
 
-## 📄 License
 
-MIT License - free for educational and commercial use.
 
----
 
-<div align="center">
-
-**⭐ Star this repo if you find it useful!**
-
-[📖 Documentation](docs/) • [🐛 Issues](issues/) • [💬 Discussions](discussions/)
-
-</div>
