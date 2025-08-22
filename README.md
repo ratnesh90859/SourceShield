@@ -161,12 +161,7 @@ streamlit run app/main.py
 
 ---
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create feature branch: `git checkout -b feature-name`
-3. Make changes and test
-4. Submit pull request
 
 ---
 
